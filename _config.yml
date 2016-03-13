@@ -1,0 +1,28 @@
+name: Hyde Park Fine Finishes
+favicon: null
+layout_spectrum: 0.5097364436369389
+typography_spectrum: 0.7359718442894518
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.533538926159963
+  lightness: 0.9073722292669117
+  saturation: 0.9177475401666015
+  rhythmicContrast: 0.09944212227128446
+purpose: []
